@@ -1,4 +1,6 @@
-<img align="center" src="https://user-images.githubusercontent.com/104330922/212779989-6f5df008-7d4a-4bf9-bd15-03f10c23d0c3.png" width=50% height=50%>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/104330922/212779989-6f5df008-7d4a-4bf9-bd15-03f10c23d0c3.png" width=50% height=50%>
+</p>
 # rb3dlc-to-rb2
 
 This is the repo for Rock Band 3 DLC converted over to Rock Band 2.
