@@ -23,6 +23,14 @@ It's highly recommended to put the DLCs into packs before installing.
 *  Linkin Park Pack 01 (What I've Done, Crawling, Numb, Somewhere I Belong, In the End, Waiting for the End)
 *  Linkin Park Pack 02 (Burn It Down, New Divide, Shadow of the Day, Breaking the Habit)
 *  My Chemical Romance Pack (Helena, Sing, Teenagers)
+*  Artic Monkeys - R U Mine
+*  Green Day - Oh Love
+*  The Strokes - Under Cover of Darkness
+*  Yellowcard - Only One
+*  Korn - Falling Away from Me, Freak on a Leash
+*  Limp Bizkit Pack (Gold Cobra, My Way, Nookie, Re-Arranged)
+*  Mastodon - Blood and Thunder
+*  System of a Down - Aerials, Hypnotize
 
 ## RBN 2.0 Songs Completed:
 *  
