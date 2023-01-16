@@ -33,7 +33,8 @@ It's highly recommended to put the DLCs into packs before installing.
 *  System of a Down - Aerials, Hypnotize
 
 ## RBN 2.0 Songs Completed:
-*  
+*  Jonathan Coulton RBN 2.0 Pack (Alone at Home, Good Morning Tucson, The Stache, Nemeses, Still Alive)
+*  Mastodon - Megalodon
 
 ## Converts done by:
 *  AnxiousQT, Anthoalreadypopped, Underoath628
