@@ -18,7 +18,7 @@ It's highly recommended to put the DLCs into packs before installing.
 *  Stone Temple Pilots - Big Bang Baby
 *  Red Hot Chili Peppers Pro Pack (Californication, Otherside, By the Way, Rain Dance Maggie)
 *  Rush Pack (Caravan, Fly by The Night, The Spirit of Radio (Live))
-*  Celebrating Nirvana Pack (All Apologies, Rape Me, Heart-Shaped Box,You Know You're Right
+*  Celebrating Nirvana Pack (All Apologies, Rape Me, Heart-Shaped Box, You Know You're Right)
 *  Queen - Bicycle Race
 *  Linkin Park Pack 01 (What I've Done, Crawling, Numb, Somewhere I Belong, In the End, Waiting for the End)
 *  Linkin Park Pack 02 (Burn It Down, New Divide, Shadow of the Day, Breaking the Habit)
