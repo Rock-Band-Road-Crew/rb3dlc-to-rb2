@@ -11,7 +11,7 @@ It's highly recommended to put the DLCs into packs before installing.
 ## DLC Songs Completed:
 *  Puddle of Mudd Pack (She Hates Me (Uncensored), Blurry, Control)
 *  Chumbawamba - Tubthumping
-*  Live Pack (I Alone, Lightning Crashes)
+*  Live - I Alone, Lightning Crashes
 *  The Vapors - Turning Japanese
 *  Toadies Pack (Possum Kingdom, Tyler, Away)
 *  Sublime Pack (What I Got, Santeria, Wrong Way)
