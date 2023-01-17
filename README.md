@@ -6,7 +6,7 @@
 
 This is the repo for Rock Band 3 DLC converted over to Rock Band 2.
 Note that some of these CONs will be updated over time.
-It's highly recommended to put the DLCs into packs before installing.
+It's highly recommended to put the DLCs into packs before installing, if installing in bulk.
 
 ## DLC Songs Completed:
 *  Puddle of Mudd Pack (She Hates Me (Uncensored), Blurry, Control)
