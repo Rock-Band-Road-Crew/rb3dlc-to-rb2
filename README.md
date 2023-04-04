@@ -31,6 +31,7 @@ It's highly recommended to put the DLCs into packs before installing, if install
 *  Limp Bizkit Pack (Gold Cobra, My Way, Nookie, Re-Arranged)
 *  Mastodon - Blood and Thunder
 *  System of a Down - Aerials, Hypnotize
+*  Soundgarden - Fell on Black Days, The Day I Tried to Live, Blow Up the Outside World, Outshined, Rusty Cage, Burden in My Hand
 
 ## RBN 2.0 Songs Completed:
 *  Jonathan Coulton RBN 2.0 Pack (Alone at Home, Good Morning Tucson, The Stache, Nemeses, Still Alive)
