@@ -32,10 +32,12 @@ It's highly recommended to put the DLCs into packs before installing, if install
 *  Mastodon - Blood and Thunder
 *  System of a Down - Aerials, Hypnotize
 *  Soundgarden - Fell on Black Days, The Day I Tried to Live, Blow Up the Outside World, Outshined, Rusty Cage, Burden in My Hand
+*  Santana - Black Magic Woman/Gypsy Queen
+*  Avenged Sevenfold - Unholy Confessions, Welcome To The Family
 
 ## RBN 2.0 Songs Completed:
 *  Jonathan Coulton RBN 2.0 Pack (Alone at Home, Good Morning Tucson, The Stache, Nemeses, Still Alive)
 *  Mastodon - Megalodon
 
 ## Converts done by:
-*  AnxiousQT, Anthoalreadypopped, Underoath628
+*  AnxiousQT, Anthoalreadypopped, Underoath628, C0 Assassin
