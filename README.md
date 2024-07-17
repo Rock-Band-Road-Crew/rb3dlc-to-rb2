@@ -33,7 +33,8 @@ It's highly recommended to put the DLCs into packs before installing, if install
 *  System of a Down - Aerials, Hypnotize
 *  Soundgarden - Fell on Black Days, The Day I Tried to Live, Blow Up the Outside World, Outshined, Rusty Cage, Burden in My Hand
 *  Santana - Black Magic Woman/Gypsy Queen
-*  Avenged Sevenfold - Unholy Confessions, Welcome To The Family
+*  Avenged Sevenfold - Unholy Confessions, Welcome To The Family, Shepherd of Fire
+*  KISS - Strutter (Live)
 
 ## RBN 2.0 Songs Completed:
 *  Jonathan Coulton RBN 2.0 Pack (Alone at Home, Good Morning Tucson, The Stache, Nemeses, Still Alive)
