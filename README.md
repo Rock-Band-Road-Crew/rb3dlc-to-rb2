@@ -35,6 +35,7 @@ It's highly recommended to put the DLCs into packs before installing, if install
 *  Santana - Black Magic Woman/Gypsy Queen
 *  Avenged Sevenfold - Unholy Confessions, Welcome To The Family, Shepherd of Fire
 *  KISS - Strutter (Live)
+*  Lady Gaga -Paparazzi
 
 ## RBN 2.0 Songs Completed:
 *  Jonathan Coulton RBN 2.0 Pack (Alone at Home, Good Morning Tucson, The Stache, Nemeses, Still Alive)
