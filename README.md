@@ -7,9 +7,33 @@
 This is the repo for Rock Band 3 DLC converted over to Rock Band 2.
 Note that some of these CONs will be updated over time.
 It's highly recommended to put the DLCs into packs before installing, if installing in bulk.
+When adding your chosen songs to a pack, it is also highly recommended to put the following script in the pack's song.dta so you don't get any duplicate entries in Rock Band 3.
+#ifndef kControllerRealGuitar (this goes on the very top of the song.dta)
+#endif (this goes at the very bottom of the song.dta)
 
 ## DLC Songs Completed:
 *  Puddle of Mudd Pack (She Hates Me (Uncensored), Blurry, Control)
+*  Breaking Benjamin Pack 02
+*  Bullet For My Valentine Pack 01
+*  Depeche Mode Pack 01
+*  Fall Out Boy Pack 01
+*  Fueled By Ramen Pack 01 (3/5 songs Complete)
+*  Killswitch Engage Pack 01
+*  Paramore Pack 01
+*  Slipknot Pack 02
+*  Three Days Grace Pack 01
+*  Black Veil Brides - Rebel Love Song
+*  Deftones - My Own Summer (Shove It)
+*  Evanescence - Everybody's Fool
+*  Good Charlotte - The Anthem
+*  Hoobastank - Crawling in the Dark
+*  Incubus - Pardon Me
+*  Maroon 5 - This Love
+*  Mastodon - Blood and Thunder
+*  Mudvayne - Happy
+*  Nickelback - How You Remind Me
+*  POD - Boom
+*  Three Days Grace - Animal I Have Become
 *  Chumbawamba - Tubthumping
 *  Live - I Alone, Lightning Crashes
 *  The Vapors - Turning Japanese
@@ -38,8 +62,20 @@ It's highly recommended to put the DLCs into packs before installing, if install
 *  Lady Gaga -Paparazzi
 
 ## RBN 2.0 Songs Completed:
+*  A Day to Remember RBN 2.0 Pack
+*  Asking Alexandria RBN 2.0 Pack
+*  Black Veil Brides RBN 2.0 Pack
+*  Blessthefall - What's Left of Me
+*  Bring Me the Horizon - Pray for Plagues
+*  Chiodos - Caves
+*  I See Stars - Filth Friends Unite
 *  Jonathan Coulton RBN 2.0 Pack (Alone at Home, Good Morning Tucson, The Stache, Nemeses, Still Alive)
 *  Mastodon - Megalodon
+*  No Bragging Rights - Death of an Era
+*  Pierce the Veil - Caraphernelia
+*  Prototype - The Way It Ends
+*  Silverstein - Burning Hearts
+*  Sleeping with Sirens - If You Can't Hang
 
 ## Converts done by:
 *  AnxiousQT, Anthoalreadypopped, Underoath628, C0 Assassin
