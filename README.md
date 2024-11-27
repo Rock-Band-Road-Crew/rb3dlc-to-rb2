@@ -61,6 +61,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 *  KISS - Strutter (Live)
 *  Lady Gaga -Paparazzi
 *  Bonnie Tyler - Total Eclipse Of The Heart
+*  38 Special - Hold On Loosely
 
 ## RBN 2.0 Songs Completed:
 *  A Day to Remember RBN 2.0 Pack
