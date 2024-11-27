@@ -65,6 +65,11 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 *  Billy Joel - Piano Man
 *  Cheap Trick - I Want You to Want Me (Live)
 *  Cheap Trick - Surrender (Live)
+*  Staind - It's Been Awhile
+*  Staind - So Far Away
+*  Eddie Money - Two Tickets To Paradise
+*  Poison - Talk Dirty To Me
+*  Edgar Winter Group, The - Frankenstein
 
 
 ## RBN 2.0 Songs Completed:
