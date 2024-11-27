@@ -63,6 +63,9 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 *  Bonnie Tyler - Total Eclipse Of The Heart
 *  38 Special - Hold On Loosely
 *  Billy Joel - Piano Man
+*  Cheap Trick - I Want You to Want Me (Live)
+*  Cheap Trick - Surrender (Live)
+
 
 ## RBN 2.0 Songs Completed:
 *  A Day to Remember RBN 2.0 Pack
