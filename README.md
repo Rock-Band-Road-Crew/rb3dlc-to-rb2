@@ -1,15 +1,10 @@
-## Rock Band 3 DLC to Rock Band 2
+# Rock Band 3 DLC to Rock Band 2
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/104330922/212779989-6f5df008-7d4a-4bf9-bd15-03f10c23d0c3.png" width=75% height=75%>
-</p>
+![Header Image](dependencies/media/header.png)
 
-Welcome to the RB3 DLC to RB2 repo.
-Note that some of these CONs will be updated over time.
-It's highly recommended to put the DLCs into packs before installing, if installing in bulk.
-When adding your chosen songs to a pack, it is also highly recommended to put the following script in the pack's song.dta so you don't get any duplicate entries in Rock Band 3.
-#ifndef kControllerRealGuitar (this goes on the very top of the song.dta)
-#endif (this goes at the very bottom of the song.dta)
+Welcome to the RB3 DLC to RB2 repo. It's highly recommended that if installing in bulk, to pack together the songs you want using [Nautilus](https://nemosnautilus.com/nautilus/) or [Onyx](https://github.com/mtolly/onyx/]. Note that some of these CONs will be updated over time. When adding your chosen songs to a pack, it is also highly recommended to put the following script in the pack's songs.dta so you don't get any duplicate entries in Rock Band 3:
+`#ifndef kControllerRealGuitar` (this goes on the very top of the songs.dta) ![2](dependencies/media/2.png)
+`#endif` (this goes at the very bottom of the songs.dta) ![3](dependencies/media/3.png)
 
 ## DLC Songs Converted:
 * 38 Special - Hold On Loosely
