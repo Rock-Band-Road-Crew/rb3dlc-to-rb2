@@ -42,6 +42,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Cobra Starship (ft. Sabi) - You Make Me Feel...
 * David Bowie - Ziggy Stardust
 * Def Leppard - Photograph
+* Def Leppard - Rock of Ages
 * Deftones - My Own Summer (Shove It)
 * Depeche Mode - Never Let Me Down Again
 * Depeche Mode - Personal Jesus
@@ -63,6 +64,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Kool & the Gang - Jungle Boogie
 * KoRn - Falling Away from Me
 * KoRn - Freak on a Leash
+* Lady Gaga - Born This Way
 * Lady Gaga - Paparazzi
 * Limp Bizkit - Gold Cobra
 * Limp Bizkit - My Way
@@ -94,6 +96,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Nirvana - Heart-Shaped Box
 * Nirvana - Rape Me
 * Nirvana - You Know You're Right
+* Ozzy Osbourne - Bark at the Moon
 * P.O.D - Boom
 * Panic at the Disco - I Write Sins Not Tragedies
 * Paramore - Brick by Boring Brick
@@ -120,6 +123,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Rush - The Spirit of Radio (Live)
 * Santana - Black Magic Woman
 * Santana - Black Magic Woman/Gypsy Queen (Beta Chart)
+* Shinedown - Diamond Eyes (Boom-Lay Boom-Lay Boom)
 * Slayer - Raining Blood
 * Slipknot - Left Behind
 * Slipknot - Pulse of the Maggots
@@ -135,12 +139,14 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Soundgarden - The Day I Tried to Live
 * Staind - It's Been Awhile
 * Staind - So Far Away
+* Stevie Nicks - Edge of Seventeen (Just Like the White Winged Dove)
 * Stone Temple Pilots - Big Bang Baby
 * Sublime - Santeria
 * Sublime - What I Got
 * Sublime - Wrong Way
 * System of a Down - Aerials
 * System of a Down - Hypnotize
+* Tears for Fears - Shout
 * The Darkness - I Believe in a Thing Called Love
 * The Edgar Winter Group - Frankenstein
 * The Strokes - Under Cover of Darkness
@@ -155,6 +161,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Weezer - Back To The Shack
 * Weezer - Hash Pipe
 * Weezer - Island in the Sun
+* White Zombie - Thunder Kiss '65
 * Yellowcard - Only One
 
 
@@ -191,4 +198,4 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Toby Turner - I Can Swing My Sword (ft. Terabite)
 
 ## Converts done by:
-*  Anthoalreadypopped, AnxiousQT, C0Assassin, D-97, Underoath628
+*  Anthoalreadypopped, AnxiousQT, C0Assassin, D-97, Underoath628, Joey Crick
