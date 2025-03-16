@@ -47,6 +47,7 @@ When adding your chosen songs to a pack, it is also highly recommended to put th
 * Depeche Mode - Never Let Me Down Again
 * Depeche Mode - Personal Jesus
 * Depeche Mode - Policy of Truth
+* DragonForce - Through the Fire and Flames
 * Eddie Money - Two Tickets to Paradise
 * Evanescence - Everybody's Fool
 * Fall Out Boy - Dance, Dance
